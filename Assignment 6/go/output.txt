@@ -1,0 +1,24 @@
+[2025-06-20T20:02:03+03:00] Worker 3 started task 0
+[2025-06-20T20:02:03+03:00] Worker 2 started task 3
+[2025-06-20T20:02:03+03:00] Worker 1 started task 1
+[2025-06-20T20:02:03+03:00] Worker 0 started task 2
+[2025-06-20T20:02:04+03:00] Worker 3 completed task 0
+[2025-06-20T20:02:04+03:00] Worker 3 started task 4
+[2025-06-20T20:02:05+03:00] Worker 1 completed task 1
+[2025-06-20T20:02:05+03:00] Worker 1 started task 5
+[2025-06-20T20:02:05+03:00] Worker 0 completed task 2
+[2025-06-20T20:02:05+03:00] Worker 0 started task 6
+[2025-06-20T20:02:05+03:00] Worker 2 completed task 3
+[2025-06-20T20:02:05+03:00] Worker 2 started task 7
+[2025-06-20T20:02:06+03:00] Worker 0 completed task 6
+[2025-06-20T20:02:06+03:00] Worker 0 started task 8
+[2025-06-20T20:02:06+03:00] Worker 2 completed task 7
+[2025-06-20T20:02:06+03:00] Worker 2 started task 9
+[2025-06-20T20:02:06+03:00] Worker 3 completed task 4
+[2025-06-20T20:02:06+03:00] Worker 3 exiting.
+[2025-06-20T20:02:07+03:00] Worker 1 completed task 5
+[2025-06-20T20:02:07+03:00] Worker 1 exiting.
+[2025-06-20T20:02:07+03:00] Worker 2 completed task 9
+[2025-06-20T20:02:07+03:00] Worker 2 exiting.
+[2025-06-20T20:02:08+03:00] Worker 0 completed task 8
+[2025-06-20T20:02:08+03:00] Worker 0 exiting.

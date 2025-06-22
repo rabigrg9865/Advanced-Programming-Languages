@@ -1,0 +1,73 @@
+ 
+Worker 2 started task 2
+Worker 0 started task 0
+Worker 1 started task 3
+Worker 3 started task 1
+Worker 2 completed task 2
+Worker 2 started task 4
+Worker 3 completed task 1
+Worker 3 started task 5
+Worker 1 completed task 3
+Worker 1 started task 6
+Worker 0 completed task 0
+Worker 0 started task 7
+Worker 1 completed task 6
+Worker 1 started task 8
+Worker 2 completed task 4
+Worker 2 started task 9
+Worker 0 completed task 7
+Worker 0 exiting.
+Worker 3 completed task 5
+Worker 3 exiting.
+Worker 2 completed task 9
+Worker 2 exiting.
+Worker 1 completed task 8
+Worker 1 exiting.
+Worker 2 started task 2
+Worker 0 started task 0
+Worker 3 started task 1
+Worker 1 started task 3
+Worker 0 completed task 0
+Worker 0 started task 4
+Worker 1 completed task 3
+Worker 1 started task 5
+Worker 3 completed task 1
+Worker 3 started task 6
+Worker 2 completed task 2
+Worker 2 started task 7
+Worker 3 completed task 6
+Worker 3 started task 8
+Worker 1 completed task 5
+Worker 1 started task 9
+Worker 0 completed task 4
+Worker 0 exiting.
+Worker 2 completed task 7
+Worker 2 exiting.
+Worker 1 completed task 9
+Worker 1 exiting.
+Worker 3 completed task 8
+Worker 3 exiting.
+[2025-06-20T19:40:34.301766700] Worker 1 started task 3
+[2025-06-20T19:40:34.322380700] Worker 2 started task 2
+[2025-06-20T19:40:34.323715800] Worker 0 started task 0
+[2025-06-20T19:40:34.325718500] Worker 3 started task 1
+[2025-06-20T19:40:36.264169] Worker 0 completed task 0
+[2025-06-20T19:40:36.278168800] Worker 0 started task 4
+[2025-06-20T19:40:36.449698100] Worker 3 completed task 1
+[2025-06-20T19:40:36.452040500] Worker 3 started task 5
+[2025-06-20T19:40:36.697682300] Worker 1 completed task 3
+[2025-06-20T19:40:36.700739700] Worker 1 started task 6
+[2025-06-20T19:40:37.249941300] Worker 2 completed task 2
+[2025-06-20T19:40:37.252090500] Worker 2 started task 7
+[2025-06-20T19:40:38.028536700] Worker 3 completed task 5
+[2025-06-20T19:40:38.042509400] Worker 3 started task 8
+[2025-06-20T19:40:38.811942800] Worker 1 completed task 6
+[2025-06-20T19:40:38.813940700] Worker 1 started task 9
+[2025-06-20T19:40:38.861946600] Worker 2 completed task 7
+[2025-06-20T19:40:38.878394100] Worker 2 exiting.
+[2025-06-20T19:40:39.212521] Worker 0 completed task 4
+[2025-06-20T19:40:39.231559500] Worker 0 exiting.
+[2025-06-20T19:40:39.620799300] Worker 3 completed task 8
+[2025-06-20T19:40:39.687873200] Worker 3 exiting.
+[2025-06-20T19:40:40.154691200] Worker 1 completed task 9
+[2025-06-20T19:40:40.197599300] Worker 1 exiting.
